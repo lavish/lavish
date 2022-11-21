@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <a rel="me" href="https://infosec.exchange/@minimalblue">Mastodon</a>
 
-<pre>
-<a rel="me" href="https://infosec.exchange/@minimalblue">
-</pre>
+<pre><code>
+<!-- <a rel="me" href="https://infosec.exchange/@minimalblue">Mastodon</a> -->
+</code></pre>
