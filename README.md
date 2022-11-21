@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <a rel="me" href="https://infosec.exchange/@minimalblue">Mastodon</a>
 
 <pre><code>
-<a rel="me" href="https://infosec.exchange/@minimalblue">Mastodon</a>
+<a rel="me" href="https://infosec.exchange/@minimalblue" rel="me">Mastodon</a>
 </code></pre>
